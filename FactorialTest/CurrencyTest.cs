@@ -19,7 +19,7 @@ namespace FactorialTest
 
             double result = c.Convert("USD", "SGD", 100);
 
-            Assert.AreEqual(140,result);
+            Assert.AreEqual(141,result);
         }
     }
 }
